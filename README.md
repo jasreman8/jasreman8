@@ -34,11 +34,9 @@ Currently, I'm deepening my expertise in **Quantitative Research** and **Machine
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://your-linkedin-profile)  
-- [Personal Website/Portfolio](https://your-portfolio-link) (if you have one)
+- [LinkedIn](https://your-linkedin-profile)
 
 ---
 
 ⭐️ **Fun Fact:**  
-I believe great data products aren't just about predictions — they're about empowering better decisions.
-
+I believe great data products aren't just about predictions — they're about empowering informed decision making.
