@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Jasreman Singh 👋
 
-<!--
-**jasreman8/jasreman8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Scientist** passionate about building scalable machine learning systems and uncovering insights from complex data.  
+I specialize in:
+- 📊 Machine Learning & Statistical Modeling
+- ☁️ Cloud-native workflows (AWS, GCP, Azure)
+- 🧮 Quantitative Analytics & Financial Data Science
+- 🛠️ Python, SQL, Snowflake, Power BI, Docker
 
-Here are some ideas to get you started:
+Currently, I'm deepening my expertise in **Quantitative Research** and **Machine Learning Engineering** to bridge advanced theory with real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Recent Skills
+- **Languages:** Python, SQL, C++ (beginner)
+- **Tools:** Snowflake, Tableau, Power BI, Git, Docker
+- **Cloud:** AWS (S3, Lambda, EC2), GCP (BigQuery, Cloud Functions)
+- **Specialties:** Time Series Forecasting, Anomaly Detection, Feature Engineering
+
+---
+
+## 📚 Current Learning
+- Stochastic Calculus, Optimization for Machine Learning
+- Deep Learning Systems Design (MLOps, Model Serving)
+- Quantitative Finance (Portfolio Theory, Risk Modeling)
+
+---
+
+## 📈 Latest Projects
+- **Fraud Detection Models** - Built scalable anomaly detection for real-time transactions.
+- **Crop Yield Forecasting** - Designed end-to-end ML pipelines from satellite imagery + weather data.
+- **KPI Monitoring Framework** - Architected automated dashboards for global product teams.
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://your-linkedin-profile)  
+- [Personal Website/Portfolio](https://your-portfolio-link) (if you have one)
+
+---
+
+⭐️ **Fun Fact:**  
+I believe great data products aren't just about predictions — they're about empowering better decisions.
+
